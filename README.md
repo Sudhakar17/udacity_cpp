@@ -6,7 +6,7 @@ Assignment problems from the course.
 - [x] Lesson-3: Arithmetic Operations
 - [x] Lesson-4: Control Flow
 - [x] Lesson-5: Pointers
-- [ ] Lesson-6: Arrays
+- [x] Lesson-6: Arrays
 - [ ] Lesson-7: Functions
 - [ ] Lesson-8: Classes
 - [ ] Lesson-9: Overloading
