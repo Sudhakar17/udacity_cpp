@@ -7,7 +7,7 @@ Assignment problems from the course.
 - [x] Lesson-4: Control Flow
 - [x] Lesson-5: Pointers
 - [x] Lesson-6: Arrays
-- [ ] Lesson-7: Functions
+- [x] Lesson-7: Functions
 - [ ] Lesson-8: Classes
 - [ ] Lesson-9: Overloading
 - [ ] Lesson-10: Templates
