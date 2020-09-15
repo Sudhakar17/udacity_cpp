@@ -8,7 +8,7 @@ Assignment problems from the course.
 - [x] Lesson-5: Pointers
 - [x] Lesson-6: Arrays
 - [x] Lesson-7: Functions
-- [ ] Lesson-8: Classes
+- [x] Lesson-8: Classes
 - [ ] Lesson-9: Overloading
 - [ ] Lesson-10: Templates
 - [ ] Lesson-11: Classes and Inheritance
