@@ -1,0 +1,7 @@
+1.To generate the object file:
+Example: (compiling the program)
+g++ -c 16_constructor.o 16_constructor.cpp
+
+2.To generate the executable file:
+Example:
+g++ -o 16_constructor 16_constructor
