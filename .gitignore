@@ -1,2 +1,7 @@
+# to remove the binary file
+*
+!/**/
+!*.*
 *.exe
 .vscode
+*.o
