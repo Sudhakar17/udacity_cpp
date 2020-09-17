@@ -9,10 +9,10 @@ Assignment problems from the course.
 - [x] Lesson-6: Arrays
 - [x] Lesson-7: Functions
 - [x] Lesson-8: Classes
-- [ ] Lesson-9: Overloading
-- [ ] Lesson-10: Templates
-- [ ] Lesson-11: Classes and Inheritance
-- [ ] Lesson-12: Polymorphism
+- [x] Lesson-9: Overloading
+- [x] Lesson-10: Templates
+- [x] Lesson-11: Classes and Inheritance
+- [x] Lesson-12: Polymorphism
 - [ ] Lesson-13: Vectors and Iterators
 - [ ] Lesson-14: Interview Questions
 - [ ] Lesson-15: C++ Checkpoint (Kalman Filters)
