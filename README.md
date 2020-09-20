@@ -13,6 +13,6 @@ Assignment problems from the course.
 - [x] Lesson-10: Templates
 - [x] Lesson-11: Classes and Inheritance
 - [x] Lesson-12: Polymorphism
-- [ ] Lesson-13: Vectors and Iterators
+- [x] Lesson-13: Vectors and Iterators
 - [ ] Lesson-14: Interview Questions
 - [ ] Lesson-15: C++ Checkpoint (Kalman Filters)
