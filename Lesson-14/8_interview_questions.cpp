@@ -5,13 +5,22 @@
 
 #include<iostream>
 
-void swap(int *x, int *y);
+// void swap(int *x, int *y);
 
-void swap(int *x, int *y)
+// void swap(int *x, int *y)
+// {
+//     *x = *x + *y;
+//     *y = *x - *y;
+//     *x = *x - *y;
+// }
+
+void swap(int &, int &);
+
+void swap(int &x, int &y)
 {
-    *x = *x + *y;
-    *y = *x - *y;
-    *x = *x - *y;
+    x = x + y;
+    y = x - y;
+    x = x - y;
 }
 
 int main()
@@ -19,7 +28,8 @@ int main()
     int a = 10;
     int b = 20;
     std::cout<<"Before swapping a and b are "<<a<<","<<b<<std::endl;
-    swap(&a, &b);
+    // swap(&a, &b);
+    swap(a, b);
     std::cout<<"after swapping a and b are "<<a<<","<<b<<std::endl;
     return 0;
 }
