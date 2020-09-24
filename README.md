@@ -14,5 +14,5 @@ Assignment problems from the course.
 - [x] Lesson-11: Classes and Inheritance
 - [x] Lesson-12: Polymorphism
 - [x] Lesson-13: Vectors and Iterators
-- [ ] Lesson-14: Interview Questions
+- [x] Lesson-14: Interview Questions
 - [ ] Lesson-15: C++ Checkpoint (Kalman Filters)
